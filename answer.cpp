@@ -7,3 +7,4 @@ int main() {
     std::cout << "The size of vec is " << size << std::endl;
     return 0;
 }
+//create 2D array of 4x4 and insert element in array and sum of all rows element ?
